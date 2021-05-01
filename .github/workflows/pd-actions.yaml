@@ -78,7 +78,7 @@ jobs:
         shell: bash
 
 #     For posting results to slack/discord/telegram
-      notify -discord -discord-webhook-url ${{ secrets.DISCORD_WEBHOOK }} -discord-username notify-bot
+        notify -discord -discord-webhook-url ${{ secrets.DISCORD_WEBHOOK }} -discord-username notify-bot
 
       - name: Sorting the output results
         run: |
