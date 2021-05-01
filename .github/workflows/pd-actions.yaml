@@ -78,7 +78,10 @@ jobs:
         shell: bash
 
 #     For posting results to slack/discord/telegram
-        notify -discord -discord-webhook-url ${{ secrets.DISCORD_WEBHOOK }} -discord-username notify-bot
+      - name: Running Nuclei for vulnerability assessment
+        run: |
+          notify -discord -discord-webhook-url ${{ secrets.DISCORD_WEBHOOK }} -discord-username notify-bot
+        shell: bash
 
       - name: Sorting the output results
         run: |
