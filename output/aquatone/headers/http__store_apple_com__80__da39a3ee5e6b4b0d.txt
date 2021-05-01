@@ -1,0 +1,18 @@
+200 OK
+Cache-Control: private, max-age=87
+Content-Security-Policy: frame-ancestors 'none' frame-ancestors 'none'
+Content-Type: text/html;charset=utf-8
+Date: Tue, 04 May 2021 19:38:26 GMT
+Etag: "6ad3b544df0993f9653366e6f1d70301"
+Expires: Tue, 04 May 2021 19:39:53 GMT
+Last-Modified: Tue, 04 May 2021 19:16:57 GMT
+Retry-Count: 0
+Server: Apple
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Accept-Encoding
+X-Cache: TCP_MEM_HIT from a184-28-50-109.deploy.akamaitechnologies.com (AkamaiGHost/10.4.0-33449709) (-)
+X-Content-Type-Options: nosniff nosniff
+X-Frame-Options: DENY DENY
+X-Request-Id: c8c33d82-0967-4d66-8fb2-4bccbfe4673b
+X-Shred: d42b0d8f800f8719ef1dd26761464a96
+X-Xss-Protection: 1; mode=block 1; mode=block

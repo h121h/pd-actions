@@ -1,0 +1,11 @@
+403 Forbidden
+Age: 1
+Content-Type: application/xml
+Date: Sat, 08 May 2021 20:46:53 GMT
+Retry-Count: 0
+Server: ATS/8.1.2
+Via: https/1.1 ussea4-edge-lx-007.ts.apple.com (ApacheTrafficServer/8.1.2), https/1.1 ussea4-edge-bx-008.ts.apple.com (ApacheTrafficServer/8.1.2)
+X-Amz-Bucket-Region: us-west-2
+X-Amz-Id-2: gZDWZ18wKJatLWfrVPLGM5TXZv5mwqPeWK8CrSKzbTVVkoAX+RrzDOmzvbNSOLLFdDojva+nwUE=
+X-Amz-Request-Id: VZQPNGQNM1BJ46N7
+X-Cache: miss, hit-stale

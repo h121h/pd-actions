@@ -1,0 +1,12 @@
+403 Forbidden
+Age: 0
+Content-Type: application/xml
+Date: Sat, 08 May 2021 20:47:16 GMT
+Retry-Count: 0
+Server: ATS/8.1.2
+Via: 1.1 e71753cf85369390852fdcb22bf59aa8.cloudfront.net (CloudFront), http/1.1 ussea4-edge-lx-007.ts.apple.com (ApacheTrafficServer/8.1.2), http/1.1 ussea4-edge-bx-004.ts.apple.com (ApacheTrafficServer/8.1.2)
+X-Amz-Cf-Id: GBNKuAIDuDROzicrAcYSGtGCi9s5SGBMmUOmEVGxsF0hI5ds3l3dZQ==
+X-Amz-Cf-Pop: YVR50-C1
+X-Amz-Id-2: VEkuvh9NfZj3RwtyHwIolkXVexcpr+cEnWsaUdMJ+fNK51TK6JTTh13Zq0Zhj4C40cIPIC9WbPY=
+X-Amz-Request-Id: W9FM0NJHP01PDEK0
+X-Cache: miss, hit-stale, Error from cloudfront

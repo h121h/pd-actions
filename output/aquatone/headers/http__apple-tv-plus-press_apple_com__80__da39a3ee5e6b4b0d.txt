@@ -1,0 +1,17 @@
+200 OK
+Cache-Control: max-age=0, no-cache
+Content-Type: text/html; charset=utf-8
+Date: Sat, 08 May 2021 20:47:25 GMT
+Etag: "492b-5c1c646600921"
+Expires: Sat, 08 May 2021 20:47:25 GMT
+Pragma: no-cache
+Retry-Count: 0
+Server: Apple
+Set-Cookie: geo=PY; path=/; domain=.apple.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+Vary: Accept-Encoding
+X-Cache-Remote: TCP_MISS from a23-35-98-181.deploy.akamaitechnologies.com (AkamaiGHost/10.4.0-33449709) (-)
+X-Cache: TCP_MISS from a23-54-19-70.deploy.akamaitechnologies.com (AkamaiGHost/10.4.0-33449709) (-)
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block

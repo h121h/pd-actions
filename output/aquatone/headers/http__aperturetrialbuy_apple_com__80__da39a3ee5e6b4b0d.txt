@@ -1,0 +1,36 @@
+404 Not Found
+Access-Control-Allow-Origin: *
+Apple-Originating-System: MZStore
+Apple-Seq: 0.0
+Apple-Timing-App: 24 ms
+Apple-Tk: false
+B3: 89202979d658ac3f3d10a0754eb243f9-037e6fa201cd95fc
+Cache-Control: no-transform, max-age=0
+Content-Type: text/html; charset=utf-8
+Date: Sat, 08 May 2021 20:47:19 GMT
+Last-Modified: Sat, 08 May 2021 20:47:19 GMT
+Retry-Count: 0
+Server: daiquiri/3.0.0
+Set-Cookie: geo=DE; path=/; domain=.apple.com
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Accept-Encoding X-Apple-Store-Front, Cookie Accept-Encoding
+X-Apple-Aka-Ttl: Generated Sat May 08 13:47:19 PDT 2021, Expires Sat May 08 13:47:19 PDT 2021, TTL 0s
+X-Apple-Application-Instance: 2178606
+X-Apple-Application-Site: ST11
+X-Apple-Date-Generated: Sat, 08 May 2021 20:47:19 GMT
+X-Apple-Jingle-Correlation-Key: REQCS6OWLCWD6PIQUB2U5MSD7E
+X-Apple-Lokamai-No-Cache: true
+X-Apple-Orig-Url: https://apps.apple.com/us/app/aperture/id408981426?ls=1%23&mt=12
+X-Apple-Partner: origin.0
+X-Apple-Request-Store-Front: <null>
+X-Apple-Request-Uuid: 89202979-d658-ac3f-3d10-a0754eb243f9
+X-Apple-Translated-Wo-Url: /WebObjects/MZStore.woa/wa/viewSoftware?ls=1%23&mt=12&id=408981426&cc=us&urlDesc=/aperture
+X-B3-Spanid: 037e6fa201cd95fc
+X-B3-Traceid: 89202979d658ac3f3d10a0754eb243f9
+X-Cache-Remote: TCP_MISS from a23-35-98-164.deploy.akamaitechnologies.com (AkamaiGHost/10.4.0-33449709) (-)
+X-Cache: TCP_MISS from a184-28-50-38.deploy.akamaitechnologies.com (AkamaiGHost/10.4.0-33449709) (-)
+X-Daiquiri-Instance: daiquiri:44904001:st44p00it-hyhk15124101:7987:21RELEASE86
+X-Frame-Options: SAMEORIGIN
+X-Responding-Instance: MZStore:2178606:::
+X-True-Cache-Key: /L/apps.apple.com/us/app/aperture/id408981426?ls=1%23&mt=12Browser vcd=2897
+X-Webobjects-Loadaverage: 0

@@ -1,0 +1,24 @@
+200 OK
+Age: 2
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: default-src 'self' https:; font-src 'self' https: data:; img-src 'self' https: data:; object-src 'none'; script-src 'self' https: 'unsafe-inline'; style-src 'self' https: 'unsafe-inline'
+Content-Type: application/json; charset=utf-8
+Date: Sat, 08 May 2021 20:47:15 GMT
+Etag: W/"7c3358176e3f98de11125bff5f531bea"
+License: http://www.apple.com/legal/internet-services/terms/site.html
+Retry-Count: 0
+Server: ATS/8.1.2
+Strict-Transport-Security: max-age=631138519 max-age=31536000
+Via: https/1.1 ussea4-edge-lx-007.ts.apple.com (ApacheTrafficServer/8.1.2), https/1.1 ussea4-edge-bx-006.ts.apple.com (ApacheTrafficServer/8.1.2)
+X-B3-Traceid: 8673206b765f2a41
+X-Cache: miss, miss
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: sameorigin
+X-Legal-Copyright: Copyright &copy; 2021 Apple Inc. All rights reserved.
+X-Legal-Privacypolicy: https://www.apple.com/privacy/privacy-policy
+X-Legal-Termsofuse: https://www.apple.com/legal/internet-services/terms/site.html
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: 0129c282-effd-4bfa-b22d-6b72a3f04ed8
+X-Runtime: 0.001543
+X-Xss-Protection: 1; mode=block

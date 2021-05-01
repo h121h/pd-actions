@@ -1,0 +1,16 @@
+403 Forbidden
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: origin,range,hdntl,hdnts
+Access-Control-Allow-Methods: GET,POST,OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Server,range,hdntl,hdnts,Akamai-Mon-Iucid-Ing,Akamai-Mon-Iucid-Del,Akamai-Request-BC
+Access-Control-Max-Age: 86400
+Akamai-Mon-Iucid-Del: 846259
+Cdn-Server: akam
+Content-Length: 293
+Content-Type: text/html
+Date: Sat, 08 May 2021 20:46:58 GMT
+Expires: Sat, 08 May 2021 20:46:58 GMT
+Mime-Version: 1.0
+Retry-Count: 0
+Server: AkamaiGHost

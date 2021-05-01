@@ -1,0 +1,29 @@
+
+
+
+
+ 
+                document.cookie = "akamai" + "=" + escape("Y") + "; expires=" + expdate.toGMTString() + "; path=/" +";domain=apple.com";
+                expdate.setTime(expdate.getTime() + 1000 * 60 * 60); //cookie set for an hour.
+                var expdate = new Date ();
+            window.location='https://gsxit.apple.com/WebApp/login.htm';
+        //Set the Akamai Cookie,Redirects to AKamai URL)
+        });
+    $.getJSON(jsonpUrl,function(data) {
+    //Akamai Test URLi
+    var jsonpUrl = 'https://gsxappit.apple.com/WebApp/akamai.htm?callback=?';
+$(document).ready(function() {
+<!--Wait for 5 seconds; Redirects to GSX Base URL without Akamai Cookie-->
+</body>
+</html>
+</script>
+<body>
+<html>
+<meta http-equiv="refresh" content="3;url=https://gsxit.apple.com/WebApp/login.htm">
+<script src='jquery.min.js'></script>
+<script type='text/javascript'>
+document.cookie = "GSX.USER.REDIRECT=;path=/;domain=apple.com;";
+document.cookie = "X-Client-Origin=;path=/;domain=apple.com;";
+document.cookie = "dstimeoffset="+dt.getTimezoneOffset()+";path=/;domain=apple.com;";    
+var dt = new Date();
+});

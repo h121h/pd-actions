@@ -1,0 +1,12 @@
+200 OK
+Content-Type: text/html; charset=utf-8
+Date: Sat, 08 May 2021 20:46:54 GMT
+Host: mfi.apple.com
+Retry-Count: 0
+Server: Apple
+Set-Cookie: domain=.apple.com=6d44ce2a09331e3aae14664c83bf09c6; path=/
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Content-Type-Options: nosniff
+X-Context-Path: /account
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block

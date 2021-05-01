@@ -1,0 +1,12 @@
+200 OK
+Content-Security-Policy: default-src 'self' https:; script-src 'self' https:; connect-src 'self' https:; img-src 'self' https:;
+Content-Type: text/html; charset=utf-8
+Date: Sat, 08 May 2021 20:47:19 GMT
+Etag: W/"d65b-5bb66a8691ada"
+Last-Modified: Mon, 15 Feb 2021 21:27:50 GMT
+Retry-Count: 0
+Server: Apple
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block

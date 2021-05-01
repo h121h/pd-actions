@@ -1,0 +1,14 @@
+404 Not Found
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: origin,range,hdntl,hdnts
+Access-Control-Allow-Methods: GET,POST,OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Server,range,hdntl,hdnts,Akamai-Mon-Iucid-Ing,Akamai-Mon-Iucid-Del,Akamai-Request-BC
+Access-Control-Max-Age: 86400
+Akamai-Mon-Iucid-Del: 822790
+Akamai-Mon-Iucid-Ing: 
+Cdn-Server: akam
+Content-Length: 0
+Date: Tue, 04 May 2021 19:37:48 GMT
+Retry-Count: 0
+X-Os-Failover: true

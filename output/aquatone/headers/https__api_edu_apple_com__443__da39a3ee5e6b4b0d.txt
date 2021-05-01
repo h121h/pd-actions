@@ -1,0 +1,15 @@
+200 OK
+Access-Control-Allow-Origin: https://developer2.apple.com
+Age: 0
+Content-Security-Policy: default-src 'self' data: blob: 'unsafe-inline' 'unsafe-eval' https://*.apple.com http://*.apple.com https://*.mzstatic.com https://*.apple-mapkit.com https://p-events-delivery.akamaized.net http://p-events-delivery.akamaized.net
+Content-Type: text/html; charset=UTF-8
+Date: Sat, 08 May 2021 20:47:15 GMT
+Host: developer.apple.com
+Retry-Count: 0
+Rqid: e0bb87a5f1a46615d4502959aa545ec0
+Server: Apple
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Via: https/1.1 ussea4-edge-lx-004.ts.apple.com (ApacheTrafficServer/8.1.2), https/1.1 ussea4-edge-bx-002.ts.apple.com (ApacheTrafficServer/8.1.2)
+X-Cache: miss, miss
+X-Frame-Options: SAMEORIGIN SAMEORIGIN
+X-Xss-Protection: 1; mode=block

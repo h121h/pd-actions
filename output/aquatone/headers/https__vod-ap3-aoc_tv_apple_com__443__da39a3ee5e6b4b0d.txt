@@ -1,0 +1,14 @@
+403 Forbidden
+Access-Control-Allow-Headers: range
+Access-Control-Expose-Headers: *
+Cache-Control: no-store
+Cdn-Server: aapl
+Cdnuuid: a33a5d5d-0841-449e-a672-9f1c3f6bc2c3-5741375394
+Content-Language: en
+Content-Length: 207
+Content-Type: text/html
+Date: Sat, 08 May 2021 20:46:57 GMT
+Retry-Count: 0
+Server: ATS/8.1.2
+Via: http/1.1 ussjc2-ve-vfe-003.ts.apple.com (ApacheTrafficServer/8.1.2 [uEc s f p eF:t c  p s ])
+X-Cache: none

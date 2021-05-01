@@ -1,0 +1,14 @@
+200 OK
+Age: 0
+Content-Length: 19
+Content-Type: text/plain
+Date: Sat, 08 May 2021 20:47:18 GMT
+Retry-Count: 0
+Server: ATS/8.1.2
+Strict-Transport-Security: max-age=31536000 max-age=31536000; includeSubdomains
+Via: https/1.1 ussea4-edge-lx-001.ts.apple.com (ApacheTrafficServer/8.1.2), https/1.1 ussea4-edge-bx-002.ts.apple.com (ApacheTrafficServer/8.1.2)
+X-B3-Traceid: 15195a2af51bc10a
+X-Cache: miss, miss
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block

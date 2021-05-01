@@ -1,0 +1,150 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        <span class="appleicon appleicon-apple header-apple-icon-styles"></span>
+                        location.replace('https://idmsa.apple.com/IDMSWebAuth/signin?appIdKey=a6658d8bbb3a54478b252ef1701ef1c6023950c93c0311230cf7fb458ec95565&rv=1&path=/?isInternal=false');
+                        location.replace('https://idmsac.apple.com/IDMSWebAuth/login?appIdKey=a33d40398d820d3ce6b28b90c88f9fd80e839413d17dbfed074d9e1f1ea31ffa&rv=1&path=/?isInternal=true');
+                    </a>
+                    <a class="logo">
+                    <button type="button" onclick="redir(this,event, 'External')" class="btn-internal btn-external external-link"
+                    <button type="button" onclick="redir(this,event, 'Internal')"  class="btn-internal internal-link mr-2"
+                    clearInterval(cooling_interval);
+                    counter_time.innerText = startcount;
+                    href=https://idmsa.apple.com/IDMSWebAuth/signin?appIdKey=a6658d8bbb3a54478b252ef1701ef1c6023950c93c0311230cf7fb458ec95565&rv=1&path=/?isInternal=false> -->
+                    href=https://idmsa.apple.com/IDMSWebAuth/signin?appIdKey=a6658d8bbb3a54478b252ef1701ef1c6023950c93c0311230cf7fb458ec95565&rv=1&path=/?isInternal=false>No</button>
+                    href=https://idmsac.apple.com/IDMSWebAuth/login?appIdKey=a33d40398d820d3ce6b28b90c88f9fd80e839413d17dbfed074d9e1f1ea31ffa&rv=1&path=/?isInternal=true> -->
+                    href=https://idmsac.apple.com/IDMSWebAuth/login?appIdKey=a33d40398d820d3ce6b28b90c88f9fd80e839413d17dbfed074d9e1f1ea31ffa&rv=1&path=/?isInternal=true>Yes</button>
+                    if (login_preference['routing_to'] === "Internal") {
+                    startcount--;
+                    }
+                    } else {
+                <!-- </a> -->
+                <!-- </a> -->
+                <!-- <a onclick="redir(this,event, 'External')" class="external-link"
+                <!-- <a onclick="redir(this,event, 'Internal')" class="internal-link"
+                </div>
+                <a href="#">Click here to go to login page</a>
+                <div class="header-container">
+                <input type="checkbox" id="remember-me"> Remember this choice
+                <span id="counter_time"></span> seconds
+                <span id="routing_to"></span> site in
+                cooling_await = setTimeout(function () {
+                cooling_interval = setInterval(function () {
+                countpage.classList.remove("hide");
+                difference_ms = enddate_ms - startdate_ms;
+                enddate_ms = enddate.getTime(),
+                localStorage.removeItem('login_preference')
+                localStorage.removeItem('login_preference');
+                localStorage.setItem('login_preference', JSON.stringify(storeObj));
+                loginpage.classList.add("hide");
+                remember_me.checked = true;
+                routing_to.innerText = login_preference['routing_to'];
+                startdate_ms = startdate.getTime(),
+                storeObj['last_remembered'] = today.toDateString();
+                storeObj['redir_url'] = redirUrl;
+                storeObj['routing_to'] = routing_to;
+                var startcount = 5;
+                }, 1000);
+                }, 5000);
+            //Last remembered preference is less than login preference duration
+            <!-- <h1>Marcom Attach&eacute;</h1>
+            </div>
+            </div>
+            </h4 class="margin-bottom-15">
+            </header>
+            </p>
+            <div class="margin-bottom-15">
+            <div class="remember-me-info">
+            <h1 class="margin-bottom-15">Marcom Attach&eacute;</h1>
+            <h1 class="margin-bottom-15">Marcom Attach&eacute;</h1>
+            <h4 class="margin-bottom-15">Do you use an @apple.com email?</h4>
+            <h4 class="margin-bottom-15">You will be redirected to Marcom Attach&eacute;
+            <h4>If you need help, email or call your Marcom partner contact or Geo lead.</h4> -->
+            <h4>if you are a registered user, <a href="/">continue here</a>.</h4>
+            <header class="main">
+            <p onclick="redirectLogin()">
+            autoRedirectFlag = 'true';
+            clearInterval(cooling_interval);
+            clearTimeout(cooling_await);
+            cooling_await = null,
+            cooling_interval = null,
+            counter_time = document.getElementById("counter_time"),
+            countpage = document.getElementById("countpage")
+            countpage.classList.add("hide");
+            enddate = new Date(enddate);
+            event.preventDefault() //prevent a tag from redirecting
+            if (!!login_preference && autoRedirectFlag != 'false') {
+            if (daysBetween(new Date(login_preference['last_remembered']), today) <= login_duration ) {
+            if (remember_me.checked) {
+            is_remembered = false,
+            location.replace(redirUrl); //now redirect to the respective route
+            login_duration = 15,
+            login_preference = JSON.parse(login_preference);
+            login_preference = localStorage.getItem('login_preference'),
+            loginpage = document.getElementById("loginpage"),
+            loginpage.classList.remove("hide");
+            redirUrl = "",
+            redirUrl = ele.getAttribute("href"); //capturing url of the button
+            return Math.round(difference_ms / one_day);
+            routing_to = document.getElementById("routing_to"),
+            startdate = new Date(startdate);
+            storeObj = {},
+            today = new Date(),
+            var one_day = 1000 * 60 * 60 * 24, //Getting total milliseconds in a day
+            }
+            }
+            } else {
+            } else {
+        //Checks whether we have any login preferences remembered.
+        //Delta time i.e. time gap between remembered and current day, days difference
+        //Skip automatic page route and go to login page
+        //ele is the element DOM, event is event object for preventing default action and routing_to is the button name we are clicking (Apple/External)
+        </div>
+        </div>
+        </div>
+        <div class="container hide" id="countpage">
+        <div class="container" id="loginpage">
+        <div ui-view="header">
+        <link rel="stylesheet" href="https://apple.com/wss/fonts/?family=SF+Pro&v=2" type="text/css" media="all">
+        <link rel="stylesheet" href="loginLandingPage.css">
+        <meta charset="UTF-8">
+        <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+        <meta http-equiv="Expires" content="0">
+        <meta http-equiv="Pragma" content="no-cache">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+        <title>Marcom Attach&eacute;</title>
+        remember_me.checked = true;
+        var daysBetween = function (startdate, enddate) {
+        var redir = function (ele, event, routing_to) {
+        var redirectLogin = function () {
+        var remember_me = document.getElementById("remember-me"),
+        }
+        }
+        };
+        };
+    </div>
+    </head>
+    </script>
+    <div class="dashboard">
+    <head lang="en">
+    <script>
+</body>
+</html>
+<body>
+<html>

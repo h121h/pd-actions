@@ -1,0 +1,21 @@
+200 
+Cache-Control: no-cache no-store
+Content-Language: en-US-x-lvariant-USA
+Content-Security-Policy: default-src 'self' ; connect-src 'self' https://appleid.apple.com https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://*.icloud-content.com ; font-src 'self' https://www.apple.com https://appleid.cdn-apple.com ; frame-src 'self' https://idmsa.apple.com https://signin.apple.com https://gsa.apple.com https://idmsa.apple.com.cn ; img-src 'self' https://www.apple.com https://appleid.cdn-apple.com data: https://*.mzstatic.com https://appleid.apple.com https://*.icloud.com ; media-src data: ; object-src 'none' ; script-src 'self' https://www.apple.com https://appleid.cdn-apple.com https://idmsa.apple.com https://signin.apple.com https://gsa.apple.com https://idmsa.apple.com.cn ; style-src 'unsafe-inline' 'self' https://www.apple.com https://appleid.cdn-apple.com ;
+Content-Type: text/html;charset=UTF-8
+Date: Sat, 08 May 2021 20:47:17 GMT
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Host: appleid.apple.com
+Pragma: no-cache
+Referrer-Policy: origin
+Retry-Count: 0
+Scnt: AAAA+kQ1OUY3RTFFOTlBN0NGOTJDMkJFNEY1Q0E5RTI1REY2ODlFODBENEY2MDI1OTcxQTQwMjA4OEJBMjIxMEE4MTVBNUI0NjM4RUJENUQ2RTU4QzM0MDM1NEQ4MkU2OTJCNzI0NkQ3NTlGODY5RDEzRTJCNkE2QTU4RUQ0OUZGOEFCMTEyNTYxNUYzQjkwMzE1RDY5QzY4MDUwNzYxODU3MzRFQzFCQTE0MUMwNUQ4NTcyNEY2QjBFQTgxQjkzOTkzNjJEQ0QzOUY2QzUwMjgyMjcxMTJBRUU1Rjg1OEI1MzBDQTdGOUVENkFBMDk0Nzc2NnwxAAABeU3AlDGEv5eDnP0zYJbvSUrL2jZceKZH4b3tmWx6G7dnGJOZnbVY1EOCs1oAAAji16WPChmVFXT9HkvANIm36RQM4Xs6E+u+AIJOkHTmqhk7fblXgA==
+Server: Apple
+Set-Cookie: idclient=web; Domain=appleid.apple.com; Path=/; Secure; HttpOnly dslang=US-EN; Domain=apple.com; Path=/; Secure; HttpOnly site=USA; Domain=apple.com; Path=/; Secure; HttpOnly myacinfo=; Max-Age=0; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Domain=apple.com; Path=/; Secure; HttpOnly awat=; Max-Age=0; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Domain=appleid.apple.com; Path=/; Secure; HttpOnly aidsp=D59F7E1E99A7CF92C2BE4F5CA9E25DF689E80D4F6025971A402088BA2210A815A5B4638EBD5D6E58C340354D82E692B7246D759F869D13E2B6A6A58ED49FF8AB1125615F3B90315D69C6805076185734EC1BA141C05D85724F6B0EA81B9399362DCD39F6C5028227112AEE5F858B530CA7F9ED6AA0947766; Domain=appleid.apple.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: accept-encoding
+X-Apple-I-Request-Id: dfa7a575-18db-42a4-825e-54228577d513
+X-Buildversion: R9-2
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block

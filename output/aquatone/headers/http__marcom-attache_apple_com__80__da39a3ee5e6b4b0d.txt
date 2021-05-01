@@ -1,0 +1,11 @@
+200 
+Access-Control-Allow-Origin: https://marcom-attache.apple.com
+Content-Type: text/html;charset=ISO-8859-1
+Date: Sat, 08 May 2021 20:46:53 GMT
+Framework_csrf_token: 6b61de4f-f77f-4ec4-9b03-3a0fcdbfa244
+Host: marcom-attache.apple.com
+Retry-Count: 0
+Server: Apple
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+Vary: accept-encoding
+X-Frame-Options: SAMEORIGIN SAMEORIGIN

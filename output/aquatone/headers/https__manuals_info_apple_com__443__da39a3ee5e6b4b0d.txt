@@ -1,0 +1,17 @@
+200 OK
+Accept-Ranges: bytes
+Access-Control-Allow-Headers: origin
+Access-Control-Max-Age: 1
+Cache-Control: public, no-transform, max-age=0 no-siteapp
+Content-Type: text/html; charset=UTF-8
+Date: Sat, 08 May 2021 20:47:20 GMT
+Etag: "de5c-5c1a7733775ff"
+Expires: Sat, 08 May 2021 20:47:20 GMT
+Host: support.apple.com
+Last-Modified: Thu, 06 May 2021 11:17:00 GMT
+Retry-Count: 0
+Server: Apple
+Strict-Transport-Security: max-age=31536000; includeSubDomains max-age=31536000; includeSubdomains
+Vary: Accept-Encoding
+X-Frame-Options: DENY SAMEORIGIN
+X-Xss-Protection: 1; mode=block

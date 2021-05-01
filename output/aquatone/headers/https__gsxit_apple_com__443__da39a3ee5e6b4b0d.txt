@@ -1,0 +1,12 @@
+200 OK
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 04 May 2021 19:37:47 GMT
+Etag: W/"453-594e8685a9ae7"
+Host: gsxit.apple.com
+Last-Modified: Tue, 15 Oct 2019 00:53:07 GMT
+Retry-Count: 0
+Server: Apple
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block

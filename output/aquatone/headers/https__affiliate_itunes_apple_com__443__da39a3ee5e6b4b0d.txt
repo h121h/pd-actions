@@ -1,0 +1,18 @@
+200 OK
+Cache-Control: max-age=0, no-cache, no-store
+Content-Type: text/html; charset=utf-8
+Date: Sat, 08 May 2021 20:47:16 GMT
+Etag: W/"92bd17bdce008389c756c2242ff841df"
+Expires: Sat, 08 May 2021 20:47:16 GMT
+Pragma: no-cache
+Referrer-Policy: strict-origin-when-cross-origin
+Retry-Count: 0
+Server: Apache
+Set-Cookie: _pineapple_medusa_session=pTsBnEkHBKVliO6VdoD5fbcXbRMfJ%2Bp7ed4L88f5iU870O2W9ckHxxBVxphiI4J9KKN2H1zxCRx55KufWBkQde4wZ1DG1JCsU7A25amy3AXz7jgZpxVz%2BzLJHvOsLZvXkb5RN18zqNN0JbssySk%3D--3fU5k8%2FA8MPH0iV6--s77UyHlcqpzYLyFTEnQbyA%3D%3D; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: 6138f3e5-9a90-418b-aa5e-4a803d0f6f2d
+X-Xss-Protection: 1; mode=block

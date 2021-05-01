@@ -1,0 +1,11 @@
+1;: mode=block
+403 Forbidden
+Content-Length: 548
+Content-Security-Policy: script-src 'self' 'unsafe-inline' 'unsafe-eval' *
+Content-Type: text/html
+Date: Tue, 04 May 2021 19:38:25 GMT
+Retry-Count: 0
+Server: Apple
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Frame-Options: SAMEORIGIN
+max-age=31536000;: includeSubdomains

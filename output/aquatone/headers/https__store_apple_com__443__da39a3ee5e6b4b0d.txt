@@ -1,0 +1,20 @@
+200 OK
+Cache-Control: private, max-age=120
+Content-Security-Policy: frame-ancestors 'none' frame-ancestors 'none'
+Content-Type: text/html;charset=utf-8
+Date: Tue, 04 May 2021 19:37:53 GMT
+Etag: "6ad3b544df0993f9653366e6f1d70301"
+Expires: Tue, 04 May 2021 19:39:53 GMT
+Last-Modified: Tue, 04 May 2021 19:16:57 GMT
+Retry-Count: 0
+Server: Apple
+Set-Cookie: dssid2=16448ef9-728c-41c7-b7ed-8f87b4e0afbd; Path=/; Domain=apple.com; Expires=Wed, 04-May-2022 19:37:53 GMT; Max-Age=31536000; Secure; HttpOnly dssf=1; Path=/; Domain=apple.com; Expires=Wed, 04-May-2022 19:37:53 GMT; Max-Age=31536000; Secure; HttpOnly as_xs=; Path=/; Domain=apple.com; Expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Secure; HttpOnly as_dc=ucp1; Domain=apple.com; Expires=Tue, 04-May-2021 20:07:53 GMT; Path=/; Secure
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Accept-Encoding
+X-Cache-Remote: TCP_REFRESH_HIT from a184-28-50-85.deploy.akamaitechnologies.com (AkamaiGHost/10.3.4.1-33174363) (S)
+X-Cache: TCP_REFRESH_HIT from a184-28-50-109.deploy.akamaitechnologies.com (AkamaiGHost/10.4.0-33449709) (S)
+X-Content-Type-Options: nosniff nosniff
+X-Frame-Options: DENY DENY
+X-Request-Id: c8c33d82-0967-4d66-8fb2-4bccbfe4673b
+X-Shred: d42b0d8f800f8719ef1dd26761464a96
+X-Xss-Protection: 1; mode=block 1; mode=block

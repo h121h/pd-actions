@@ -1,0 +1,13 @@
+200 OK
+Cache-Control: max-age=179
+Content-Type: text/html; charset=UTF-8
+Date: Sat, 08 May 2021 20:46:59 GMT
+Expires: Sat, 08 May 2021 20:49:58 GMT
+Retry-Count: 0
+Server: Apache
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Accept-Encoding
+X-Cache: TCP_MEM_HIT from a23-54-18-213.deploy.akamaitechnologies.com (AkamaiGHost/10.4.0-33449709) (-)
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block

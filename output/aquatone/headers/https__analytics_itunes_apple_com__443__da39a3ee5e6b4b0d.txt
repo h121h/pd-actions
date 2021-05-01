@@ -1,0 +1,19 @@
+200 OK
+Apple-Originating-System: UnknownOriginatingSystem
+Apple-Seq: 0.0
+Apple-Tk: false
+Cache-Control: max-age=60
+Content-Type: text/html
+Date: Sat, 08 May 2021 20:47:14 GMT
+Etag: 7caa3ec136eacfc9619a30ac74b2247b
+Last-Modified: Mon, 3 May 2021 17:12:36 GMT
+Retry-Count: 0
+Server: daiquiri/3.0.0
+Set-Cookie: dc=mr; Secure; HttpOnly; Path=/; Domain=.apple.com
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Accept-Encoding
+X-Apple-Jingle-Correlation-Key: H4IMFMPFJ7QGQX4PE6AOBJA7YA
+X-Apple-Request-Uuid: 3f10c2b1-e54f-e068-5f8f-2780e0a41fc0
+X-Apple-Version-Number: 1620055501456-1620055501460
+X-Daiquiri-Instance: daiquiri:15887001:mr85p00it-hyhk03154901:7987:21RELEASE86 daiquiri:15887001:mr85p00it-hyhk03154901:7987:21RELEASE86 daiquiri:18493002:mr85p00it-hyhk04114201:7987:21RELEASE86
+X-Responding-Instance: silverbullet:3001:mr28p00it-ztdg08092301:8186:21REL3

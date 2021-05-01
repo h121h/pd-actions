@@ -1,0 +1,14 @@
+404 Not Found
+Cache-Control: no-cache
+Content-Length: 16
+Content-Security-Policy: script-src 'self' 'unsafe-inline' 'unsafe-eval' https://local.connectme.us https://d3gcli72yxqn2z.cloudfront.net
+Content-Type: text/html; charset=utf-8
+Date: Sat, 08 May 2021 20:47:32 GMT
+Retry-Count: 0
+Server: Apple
+Status: 404
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload max-age=31536000; includeSubdomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN SAMEORIGIN
+X-Runtime: 5
+X-Xss-Protection: 1; mode=block

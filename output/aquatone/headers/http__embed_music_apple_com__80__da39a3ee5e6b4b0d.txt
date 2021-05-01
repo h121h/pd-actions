@@ -1,0 +1,23 @@
+200 OK
+Apple-Originating-System: UnknownOriginatingSystem
+Apple-Seq: 0.0
+Apple-Tk: false
+Cache-Control: no-transform, max-age=22
+Content-Security-Policy: default-src 'self' https://*.apple.com itmss://*.apple.com; img-src 'self' https://*.apple.com https://*.mzstatic.com artwork: data:; style-src 'self' https://*.apple.com 'unsafe-inline'; script-src 'self' https://*.apple.com blob: 'unsafe-eval'; connect-src 'self' https://*.apple.com https://*.mzstatic.com; media-src 'self' https://*.apple.com https://*.mzstatic.com blob:; block-all-mixed-content;
+Content-Type: text/html
+Date: Tue, 04 May 2021 19:38:22 GMT
+Etag: 8c50101e7bd3f21f8250c2e5bbaa4f5f
+Expect-Ct: max-age=86400, enforce
+Last-Modified: Thu, 1 Apr 2021 22:15:19 GMT
+Retry-Count: 0
+Server: daiquiri/3.0.0
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Accept-Encoding
+X-Apple-Jingle-Correlation-Key: EYMELINGCT2APTRJFLZ5MJFJYE
+X-Apple-Request-Uuid: 261845a1-a614-f407-ce29-2af3d624a9c1
+X-Apple-Version-Number: 2114.0.0
+X-Cache: TCP_MEM_HIT from a184-29-141-44.deploy.akamaitechnologies.com (AkamaiGHost/10.3.4.1-33174363) (-)
+X-Content-Type-Options: nosniff
+X-Daiquiri-Instance: daiquiri:45887001:st44p00it-hyhk15124201:7987:21RELEASE58 daiquiri:48493001:st44p00it-hyhk15034601:7987:21RELEASE50 daiquiri:47691002:st44p00it-hyhk15084601:7987:21RELEASE50
+X-Responding-Instance: silverbullet-external:2022:st47p00it-qujn14040301:8301:21REL3
+X-Xss-Protection: 1; mode=block

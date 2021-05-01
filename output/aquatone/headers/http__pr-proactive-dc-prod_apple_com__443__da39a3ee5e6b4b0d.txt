@@ -1,0 +1,10 @@
+400 Bad Request
+Content-Length: 248
+Content-Security-Policy: default-src 'self' *.apple.com 'unsafe-inline'
+Content-Type: text/html
+Date: Tue, 04 May 2021 19:38:25 GMT
+Retry-Count: 0
+Server: Apple
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block

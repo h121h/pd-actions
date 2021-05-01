@@ -1,0 +1,9 @@
+200 OK
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob:  *.apple.com *.apple-mapkit.com; img-src 'self' data: https: ; connect-src 'self' *.apple.com *.apple-mapkit.com *.s3.amazonaws.com ;
+Content-Type: text/html; charset=utf-8
+Date: Sat, 08 May 2021 20:46:53 GMT
+Retry-Count: 0
+Set-Cookie: PLAY_MAPS_CONNECT_LANG=en; Path=/ PLAY_MAPS_CONNECT_SESSION=2-gUo0c4LUa1dhTjhgOdtWuur+z/pqFOtYE2S1OiS6D3NVGENoAWcL9Ws5mOQC8+v7645vJTQpTvup6UijoT9ZeqUiKvOHQdx+Drb7+06gcZkFonKaIuJu2AH+k+C+u54jVWsRZmAMVzzq; Path=/; Secure; HTTPOnly NSC_ns11q01mt-nbqtdpoofdu-443$33995=ffffffff1266b01f45525d5f4f58455e445a4a4212d3;expires=Sat, 08-May-2021 20:48:53 GMT;path=/;secure;httponly
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Accept-Encoding
+X-Frame-Options: DENY

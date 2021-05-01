@@ -1,0 +1,14 @@
+200 OK
+Accept-Ranges: bytes
+Access-Control-Allow-Headers: Range
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Range, Content-Length, Accept-Ranges
+Cache-Control: max-age=521
+Content-Type: text/html; charset=UTF-8
+Date: Sat, 08 May 2021 20:46:59 GMT
+Expires: Sat, 08 May 2021 20:55:40 GMT
+Retry-Count: 0
+Server: Apache
+Set-Cookie: edgezip=J4G+J edgecity=LONGUEUIL edgestate=QC edgelat=45.53 edgelong=-73.52
+Strict-Transport-Security: max-age=31536000;
+Vary: Accept-Encoding

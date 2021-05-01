@@ -1,0 +1,16 @@
+200 OK
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src 'self'; script-src  'self' https://www.apple.com https://appleid.cdn-apple.com; style-src  'self' 'unsafe-inline' https://www.apple.com https://appleid.cdn-apple.com; img-src  'self' data: https://www.apple.com https://appleid.cdn-apple.com; font-src  'self' https://www.apple.com https://appleid.cdn-apple.com; frame-src https://idmsa.apple.com;
+Content-Type: text/html; charset=utf-8
+Date: Sat, 08 May 2021 20:46:56 GMT
+Pragma: no-cache, no-store, must-revalidate
+Retry-Count: 0
+Server: Apple
+Set-Cookie: _csrf=BFMl1Ar4g81K3OFgaGCURb2U; Path=/; HttpOnly; Secure; SameSite=Strict pgsession=; Max-Age=0; Domain=privacy.apple.com; Path=/; Expires=Sat, 08 May 2021 20:46:56 GMT; HttpOnly; Secure pgtoken=; Max-Age=0; Domain=privacy.apple.com; Path=/; Expires=Sat, 08 May 2021 20:46:56 GMT; HttpOnly; Secure myacinfo=; Max-Age=0; Domain=.apple.com; Path=/; Expires=Sat, 08 May 2021 20:46:56 GMT; HttpOnly; Secure
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+Vary: Accept-Encoding
+X-Apple-Transaction-Id: ckog7x26t4xdw04pa1bi05vie
+X-Buildversion: R9
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block

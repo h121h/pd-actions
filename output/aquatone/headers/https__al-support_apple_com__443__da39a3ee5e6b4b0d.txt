@@ -1,0 +1,17 @@
+200 OK
+Accept-Ranges: bytes
+Content-Language: en-US
+Content-Security-Policy: default-src 'self' blob:; prefetch-src 'self' data:; script-src 'self' 'unsafe-eval' *.apple.com blob:; connect-src 'self' *.apple.com data: blob:; img-src 'self' *.apple.com data: blob:; style-src 'self' *.apple.com data:; font-src 'self' *.apple.com data:; media-src *.apple.com data: blob:
+Content-Type: text/html
+Date: Sat, 08 May 2021 20:47:16 GMT
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Last-Modified: Tue, 13 Apr 2021 16:49:10 GMT
+Retry-Count: 0
+Server: Apple
+Set-Cookie: Shield-al-support_443=d144b495d30dd707a52fadd5a6248ca9; domain=.apple.com; httponly; secure; path=/ JSESSIONID=node0aepot7odmrshbtikhavg24uz417587.node0; Path=/; Secure
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+Vary: Origin Access-Control-Request-Method Access-Control-Request-Headers Accept-Encoding, User-Agent
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Gws-Msg-Seq-Num: 74f8da20-6b2b-4320-ae65-4d4890bcc83d
+X-Xss-Protection: 1; mode=block

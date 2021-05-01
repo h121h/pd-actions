@@ -1,0 +1,30 @@
+
+
+
+            src = envMatch[1] + '-' + src;
+          // Support mediaauth.apple.com/auth-bridge/?env=x
+          const envMatch = /env=([a-z0-9]+)/.exec(location.search);
+          if (envMatch && envMatch[1]) {
+          src = prefixMatch[0] + src;
+          }
+        // Support x-mediaauth.apple.com/auth-bridge/
+        const hostname = location.hostname;
+        const prefixMatch = /^[a-z0-9]+-/.exec(location.hostname);
+        if (prefixMatch && prefixMatch[0]) {
+        let src = 'js-cdn.music.apple.com/musickit/v2/amp/auth-bridge.js';
+        return src;
+        }
+        } else if (location.search) {
+      const script = document.createElement('script');
+      document.head.appendChild(script);
+      function getSrc() {
+      script.src = 'https://' + getSrc();
+      }
+    </script>
+    <script>
+  </body>
+  <body>
+  <head> </head>
+<!DOCTYPE html>
+</html>
+<html>

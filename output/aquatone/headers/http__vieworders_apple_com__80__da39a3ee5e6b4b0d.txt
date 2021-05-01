@@ -1,0 +1,19 @@
+200 
+Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0, post-check=0, pre-check=0
+Content-Language: en-US
+Content-Security-Policy: default-src 'self' ; connect-src 'self' ; font-src 'self' https://*.apple.com https://*.cdn-apple.com ; frame-src https://idmsa.apple.com https://idmsa.apple.com.cn https://signin.apple.com https://idmsauth.corp.apple.com ; img-src 'self' https://*.apple.com https://*.cdn-apple.com https://*.mzstatic.com data: ; object-src 'self' ; script-src 'self' https://*.cdn-apple.com https://ssl.apple.com https://www.apple.com ; style-src 'unsafe-inline' 'self' https://*.cdn-apple.com https://ssl.apple.com https://www.apple.com ;
+Content-Type: text/html;charset=UTF-8
+Date: Sat, 08 May 2021 20:46:58 GMT
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Pragma: no-cache
+Referrer-Policy: origin
+Retry-Count: 0
+Scnt: AAAAKjhCQjlFMTFGQjUyQjU0NjI1Nzg3MUQ5MERDOTRDMEZDfDEAAAF5TcBMCGwAneOb2PqemFTIg/law7phqCFrxsqMJCU7RHrgxlWi13bW0dgK1EYACNlFIgC5WKzgJyU8ZFoMJ24Vt7onJJ0iSAmZqgcRjobxv6SJkXlN
+Server: Apple
+Set-Cookie: JSESSIONID=8BB9E11FB52B546257871D90DC94C0FC; Path=/; Secure; HttpOnly dslang=US-EN; Max-Age=15552000; Expires=Thu, 04-Nov-2021 20:46:58 GMT; Domain=apple.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: accept-encoding
+X-Apple-I-Request-Id: d498f2e0-b883-4573-9792-9fb253243568
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block

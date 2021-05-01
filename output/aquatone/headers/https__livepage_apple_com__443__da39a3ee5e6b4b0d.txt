@@ -1,0 +1,15 @@
+200 OK
+Cache-Control: max-age=0
+Content-Security-Policy: default-src 'self' blob: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: embed.music.apple.com www.apple.com www.instagram.com www.youtube-nocookie.com; img-src 'unsafe-inline' data: blob: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com; style-src 'unsafe-inline' *.apple.com
+Content-Type: text/html; charset=UTF-8
+Date: Sat, 08 May 2021 20:47:19 GMT
+Expires: Sat, 08 May 2021 20:47:19 GMT
+Retry-Count: 0
+Server: Apple
+Set-Cookie: geo=US; path=/; domain=.apple.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+Vary: Accept-Encoding
+X-Cache: TCP_HIT from a23-54-18-213.deploy.akamaitechnologies.com (AkamaiGHost/10.4.0-33449709) (-)
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block

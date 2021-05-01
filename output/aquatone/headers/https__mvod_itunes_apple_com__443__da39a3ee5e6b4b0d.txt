@@ -1,0 +1,12 @@
+403 Forbidden
+Access-Control-Allow-Headers: range
+Access-Control-Expose-Headers: *
+Cache-Control: no-store
+Content-Language: en
+Content-Length: 207
+Content-Type: text/html
+Date: Tue, 04 May 2021 19:37:51 GMT
+Retry-Count: 0
+Server: ATS/8.1.2
+Via: http/1.1 ussea4-edge-bx-002.ts.apple.com (ApacheTrafficServer/8.1.2)
+X-Cache: none

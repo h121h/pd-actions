@@ -1,0 +1,13 @@
+403 Forbidden
+Access-Control-Allow-Origin: *
+Age: 3
+Cache-Control: max-age=3, public
+Cdnuuid: e4677560-5c91-4d7e-8bf2-af15f50942f1-4588275927
+Content-Length: 293
+Content-Type: text/html
+Date: Sat, 08 May 2021 20:47:16 GMT
+Mime-Version: 1.0
+Retry-Count: 0
+Server: ATS/8.1.2
+Via: https/1.1 ussjc2-vp-vst-017.ts.apple.com (ApacheTrafficServer/8.1.2 [uScSsSfUpSeN:t cCSp sS]), https/1.1 ussjc2-ve-vfe-008.ts.apple.com (ApacheTrafficServer/8.1.2 [uScSsSfUpSeN:t cCSpSs ]), https/1.1 ussea4-edge-bx-004.ts.apple.com (ApacheTrafficServer/8.1.2 [uScSsSfUpSeN:t cCSpSs ])
+X-Cache: hit-stale, hit-stale, hit-stale

@@ -1,0 +1,10 @@
+200 OK
+Accept-Ranges: bytes
+Cache-Control: max-age=300
+Content-Type: text/html
+Date: Sat, 08 May 2021 20:47:20 GMT
+Etag: "1f32c6cd7a2c9d4bca4b808b10acdf83:1166234832"
+Last-Modified: Sat, 16 Dec 2006 02:07:12 GMT
+Retry-Count: 0
+Server: AkamaiNetStorage
+Vary: Accept-Encoding
