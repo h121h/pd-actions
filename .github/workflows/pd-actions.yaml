@@ -21,8 +21,13 @@ jobs:
       - name: Setup Dependencies
         run: sudo apt-get install libpcap-dev # Required for Naabu
       
+      - name: Setup chromium
+        run: sudo apt-get -y install chromium-browser unzip # Required for aquatone
+
+
       - name: Setup aquatone
         run: |
+          curl -s https://api.github.com/repos/michenriksen/aquatone/releases/latest | grep "browser_download_url.*linux_amd" | cut -d : -f 3- | tr -d \"
           curl -s https://api.github.com/repos/michenriksen/aquatone/releases/latest | grep "browser_download_url.*linux_amd" | cut -d : -f 3- | tr -d \" | wget -qi -
           unzip aquatone_linux_amd64*.zip
           rm aquatone_linux_amd64*.zip
@@ -30,9 +35,6 @@ jobs:
           # mv aquatone /usr/local/bin/
         shell: bash
       
-      - name: Setup chromium
-        run: sudo apt-get -y install chromium-browser # Required for Naabu
-
       - name: Cache Go
         id: cache-go
         uses: actions/cache@v2
