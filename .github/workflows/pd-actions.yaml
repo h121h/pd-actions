@@ -28,7 +28,7 @@ jobs:
           rm aquatone_linux_amd64*.zip
           chmod +x aquatone
           mv aquatone /usr/local/bin/
-          apt-get install -y chromium
+          sudo apt install chromium-browser
         shell: bash
 
       - name: Cache Go
