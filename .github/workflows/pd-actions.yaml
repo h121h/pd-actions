@@ -10,24 +10,25 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@master
+      # - name: Checkout Repo
+      #   uses: actions/checkout@master
 
-      - name: Setup golang
-        uses: actions/setup-go@v2
-        with:
-          go-version: 1.14
+      # - name: Setup golang
+      #   uses: actions/setup-go@v2
+      #   with:
+      #     go-version: 1.14
 
-      - name: Setup Dependencies
-        run: sudo apt-get install libpcap-dev # Required for Naabu
+      # - name: Setup Dependencies
+      #   run: sudo apt-get install libpcap-dev # Required for Naabu
       
-      - name: Setup chromium
-        run: sudo apt-get -y install chromium-browser unzip # Required for aquatone
+      # - name: Setup chromium
+      #   run: sudo apt-get -y install chromium-browser unzip # Required for aquatone
 
 
       - name: Setup aquatone
         run: |
-          curl -s https://api.github.com/repos/michenriksen/aquatone/releases/latest | grep "browser_download_url.*linux_amd" | cut -d : -f 3- | tr -d \"
+          curl -s https://api.github.com/repos/michenriksen/aquatone/releases/latest | grep "browser_download_url.*linux_amd" 
+          curl -s https://api.github.com/repos/michenriksen/aquatone/releases/latest | grep "browser_download_url.*linux_amd" | cut -d : -f 2- | tr -d \"
           curl -s https://api.github.com/repos/michenriksen/aquatone/releases/latest | grep "browser_download_url.*linux_amd" | cut -d : -f 3- | tr -d \" | wget -qi -
           unzip aquatone_linux_amd64*.zip
           rm aquatone_linux_amd64*.zip
