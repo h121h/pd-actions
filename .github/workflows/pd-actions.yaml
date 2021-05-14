@@ -2,9 +2,9 @@ name: pd-actions
 
 on:
   schedule:
-    - cron: "42 * * * *"
+    - cron: "49 * * * *"
   # Remove both comments to run this action on daily basis.
-  workflow_dispatch:
+  # workflow_dispatch:
 
 jobs:
   build:
